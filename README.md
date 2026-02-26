@@ -2,3 +2,10 @@ This project is a customer churn prediction model built using Python and machine
 
 ### 🕹️ Interactive Demo
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-3mljwneyennogttkkkp9ph.streamlit.app/)
+
+### 📊 Dataset
+The model was trained on the [Telecom Customer Churn Insights](https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis) dataset from Kaggle. It contains 1,000 customer records featuring 8 behavioral and demographic attributes (such as tenure, monthly charges, and internet service type).
+
+
+
+
